@@ -1,0 +1,8 @@
+Total requests: 1035
+Served requests: 1000
+Average waiting time in queue (Wq): 0.313607
+Average time in system (W): 0.797973
+Average number of requests in queue (Lq): 0.636437
+Average number of requests in system (L): 1.02259
+Total free time: 767.961
+Total working time: 486.366
